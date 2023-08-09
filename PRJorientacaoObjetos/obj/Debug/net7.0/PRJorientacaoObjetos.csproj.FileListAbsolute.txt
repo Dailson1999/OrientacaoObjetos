@@ -1,0 +1,15 @@
+C:\Users\dails\Documents\Curso C#\PRJorientacaoObjetos\bin\Debug\net7.0\PRJorientacaoObjetos.exe
+C:\Users\dails\Documents\Curso C#\PRJorientacaoObjetos\bin\Debug\net7.0\PRJorientacaoObjetos.deps.json
+C:\Users\dails\Documents\Curso C#\PRJorientacaoObjetos\bin\Debug\net7.0\PRJorientacaoObjetos.runtimeconfig.json
+C:\Users\dails\Documents\Curso C#\PRJorientacaoObjetos\bin\Debug\net7.0\PRJorientacaoObjetos.dll
+C:\Users\dails\Documents\Curso C#\PRJorientacaoObjetos\bin\Debug\net7.0\PRJorientacaoObjetos.pdb
+C:\Users\dails\Documents\Curso C#\PRJorientacaoObjetos\obj\Debug\net7.0\PRJorientacaoObjetos.csproj.AssemblyReference.cache
+C:\Users\dails\Documents\Curso C#\PRJorientacaoObjetos\obj\Debug\net7.0\PRJorientacaoObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dails\Documents\Curso C#\PRJorientacaoObjetos\obj\Debug\net7.0\PRJorientacaoObjetos.AssemblyInfoInputs.cache
+C:\Users\dails\Documents\Curso C#\PRJorientacaoObjetos\obj\Debug\net7.0\PRJorientacaoObjetos.AssemblyInfo.cs
+C:\Users\dails\Documents\Curso C#\PRJorientacaoObjetos\obj\Debug\net7.0\PRJorientacaoObjetos.csproj.CoreCompileInputs.cache
+C:\Users\dails\Documents\Curso C#\PRJorientacaoObjetos\obj\Debug\net7.0\PRJorientacaoObjetos.dll
+C:\Users\dails\Documents\Curso C#\PRJorientacaoObjetos\obj\Debug\net7.0\refint\PRJorientacaoObjetos.dll
+C:\Users\dails\Documents\Curso C#\PRJorientacaoObjetos\obj\Debug\net7.0\PRJorientacaoObjetos.pdb
+C:\Users\dails\Documents\Curso C#\PRJorientacaoObjetos\obj\Debug\net7.0\PRJorientacaoObjetos.genruntimeconfig.cache
+C:\Users\dails\Documents\Curso C#\PRJorientacaoObjetos\obj\Debug\net7.0\ref\PRJorientacaoObjetos.dll
